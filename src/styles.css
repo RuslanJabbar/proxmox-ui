@@ -1,0 +1,20 @@
+:root {
+  --pve-blue-primary: #007BFF;
+  --pve-blue-dark: #0056b3;
+  --pve-gray-900: #212529;
+  --pve-gray-700: #495057;
+  --pve-gray-500: #adb5bd;
+  --pve-gray-300: #dee2e6;
+  --pve-gray-100: #f8f9fa;
+  --pve-white: #ffffff;
+  --pve-green-success: #28a745;
+  --pve-red-error: #dc3545;
+  --pve-yellow-warning: #ffc107;
+  --pve-blue-info: #007BFF;
+  --pve-orange-processing: #fd7e14;
+}
+
+body {
+  margin: 0;
+  background: var(--pve-gray-100);
+}
